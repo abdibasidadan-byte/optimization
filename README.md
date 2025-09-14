@@ -9,3 +9,6 @@ Data Preparation: Loading from the clipboard, cleaning (replacing commas with pe
 Regression Modeling: Use of an XGBoost model to predict average order value, with evaluation via RMSE and R² on a test set (30% of the data). Visualizations include a scatter plot of predictions vs. actual values, a correlation matrix, a boxplot of average basket by card saving, and a histogram of prediction errors.
 Classification Modeling: Logistic regression with L2 regularization to identify high-value customers, based on selected features (session duration, product views, etc.). Evaluation via ROC-AUC score and ROC curve.
 
+Data : https://github.com/Gayathri-Selvaganapathi/customer_churn_prediction/blob/main/data.csv
+Acknowledgment to Gayathri-Selvaganapathi
+
